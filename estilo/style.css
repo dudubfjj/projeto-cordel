@@ -34,6 +34,10 @@ div > a {
     font-size: 0.6em;
 }
 
+div > a > p {
+    padding-left: 15px;
+}
+
 div > a:hover {
     text-decoration: underline;
 }
