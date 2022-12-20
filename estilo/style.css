@@ -24,8 +24,15 @@ html, body {
 }
 
 #menu {
-    position: fixed;
     right: 0;
+}
+div > a {
+    color: black;
+    font-size: 0.6em;
+}
+
+div > a:hover {
+    text-decoration: underline;
 }
 
 header {
