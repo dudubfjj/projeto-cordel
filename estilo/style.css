@@ -88,6 +88,8 @@ section.imagem {
     color: white;
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.418);
     background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 
 section.imagem > p {
@@ -102,12 +104,10 @@ section.imagem > p {
 section#imagem01 {
     background-image: url(../imagens/background001.jpg);
     background-position: right center;
-    background-size: cover;
 }
 
 section#imagem02 {
     background-image: url(../imagens/background002.jpg);
-    background-size: cover;
 }
 
 
