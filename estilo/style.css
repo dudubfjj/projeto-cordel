@@ -94,6 +94,7 @@ section.imagem {
     background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 section.imagem > p {
@@ -112,6 +113,7 @@ section#imagem01 {
 
 section#imagem02 {
     background-image: url(../imagens/background002.jpg);
+    background-position: right bottom;
 }
 
 
