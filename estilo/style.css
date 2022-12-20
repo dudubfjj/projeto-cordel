@@ -25,7 +25,9 @@ html, body {
 
 #menu {
     right: 0;
+    padding-left: 50px;
 }
+
 div > a {
     color: black;
     font-size: 0.6em;
